@@ -14,3 +14,6 @@ Two metrics commonly used to evaluate the performance of random forest models ar
 
 - We are developing more comprehensive predictive models for healthy and CF subjects, based on unstructured datasets on physiological measurements, the GitHub repo here: [Machine Learning for Treatment Therapies](https://github.com/dinhtuanphan/MachineLearningForTherapies)
 
+## File Structure
+- MATLAB files used to first process raw data from multiple skin sensors (e.g., GSR, temp, heart rate, etc.)
+- R files used to perform final data analysis and build machine learning models
