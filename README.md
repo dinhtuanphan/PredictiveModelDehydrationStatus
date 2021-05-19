@@ -9,8 +9,8 @@ Weight change associated with fluid loss is an important metric for fatigue but 
 
 Two metrics commonly used to evaluate the performance of random forest models are the out-of-bag (OOB) error and the AUC (area under the ROC curve, 1: perfect classification, 0.5: no better than random classification). The OOB error, an estimation of the true prediction error, was 32% (group 1: 28% (7/25), group 2: 36% (9/25)) and the AUC value was 0.742. Interestingly, the sweat chloride concentration was the most effective variable contributing to the classification. Although a few previous studies have reported that hydration status can be classified or estimated by monitoring physiological parameters or by analyzing biofluids, these studies used post hoc laboratory-based analytical measurements. Here we show that chloride ion concentration and other physiological parameters recorded using wearable devices can be used to predict fluid loss due to sweating.
 
-## Publication
+## Publication & Future Works
 - The result of this research in our lab (Dr. Searson's Lab at JHU) that I work was published here: [Two Distinct Types of Sweat Profile in Healthy Subjects While Exercising at Constant Power Output Measured by a Wearable Sweat Sensor](https://www.nature.com/articles/s41598-019-54202-1#article-info)
 
-- We are developing more comprehensive predictive models for healthy and CF subjects, based on unstructured datasets on physiological measurements, the GitHub repo is [Machine Learning for Treatment Therapies](https://github.com/dinhtuanphan/MachineLearningForTherapies)
+- We are developing more comprehensive predictive models for healthy and CF subjects, based on unstructured datasets on physiological measurements, the GitHub repo here: [Machine Learning for Treatment Therapies](https://github.com/dinhtuanphan/MachineLearningForTherapies)
 
